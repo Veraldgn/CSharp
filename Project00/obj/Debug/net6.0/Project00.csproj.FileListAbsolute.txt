@@ -1,0 +1,15 @@
+/home/veraldgn/study/CSharp/Project00/bin/Debug/net6.0/Project00
+/home/veraldgn/study/CSharp/Project00/bin/Debug/net6.0/Project00.deps.json
+/home/veraldgn/study/CSharp/Project00/bin/Debug/net6.0/Project00.runtimeconfig.json
+/home/veraldgn/study/CSharp/Project00/bin/Debug/net6.0/Project00.dll
+/home/veraldgn/study/CSharp/Project00/bin/Debug/net6.0/ref/Project00.dll
+/home/veraldgn/study/CSharp/Project00/bin/Debug/net6.0/Project00.pdb
+/home/veraldgn/study/CSharp/Project00/obj/Debug/net6.0/Project00.csproj.AssemblyReference.cache
+/home/veraldgn/study/CSharp/Project00/obj/Debug/net6.0/Project00.GeneratedMSBuildEditorConfig.editorconfig
+/home/veraldgn/study/CSharp/Project00/obj/Debug/net6.0/Project00.AssemblyInfoInputs.cache
+/home/veraldgn/study/CSharp/Project00/obj/Debug/net6.0/Project00.AssemblyInfo.cs
+/home/veraldgn/study/CSharp/Project00/obj/Debug/net6.0/Project00.csproj.CoreCompileInputs.cache
+/home/veraldgn/study/CSharp/Project00/obj/Debug/net6.0/Project00.dll
+/home/veraldgn/study/CSharp/Project00/obj/Debug/net6.0/ref/Project00.dll
+/home/veraldgn/study/CSharp/Project00/obj/Debug/net6.0/Project00.pdb
+/home/veraldgn/study/CSharp/Project00/obj/Debug/net6.0/Project00.genruntimeconfig.cache
